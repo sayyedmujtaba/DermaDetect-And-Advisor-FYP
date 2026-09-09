@@ -137,7 +137,8 @@ uv sync
 **To run on Colab:**
 1. Mount your Google Drive with the dataset at `MyDrive/Classified_dataset/`
 2. Open `main_FYP_classified_40.ipynb` in Google Colab
-3. Run all cells in order
+3. Request for access [Google Drive Link](https://drive.google.com/drive/u/0/folders/1qpzRZb9nFWJ545PwuXMeKILN9115aJIa)
+4. Run all cells in order
 
 ---
 
